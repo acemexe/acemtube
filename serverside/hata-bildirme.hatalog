@@ -1,0 +1,121 @@
+
+'act987968726525':<
+          klad:'Acem',
+          tarih:'2022-04-20 01:27:16.081576',
+          hata:'list index out of range',
+          mod:'Spotify',
+          ver:'3.0',
+          os:'Windows-10-10.0.19044-SP0',
+          hwid:'17CA948E-E01D-CB7D-79EE-309C23A9AA1B'
+>
+'act791228461880':<
+          klad:'Acem',
+          tarih:'2022-05-01 12:24:42.427274',
+          hata:''140'',
+          mod:'Video',
+          ver:'3.0',
+          os:'Windows-10-10.0.19044-SP0',
+          hwid:'17CA948E-E01D-CB7D-79EE-309C23A9AA1B'
+>
+'act297210262344':<
+          klad:'eqeleyte',
+          tarih:'2022-06-27 00:51:45.873621',
+          hata:'ERROR: Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location',
+          mod:'Ses',
+          ver:'3.1',
+          os:'Windows-7-6.1.7601-SP1',
+          hwid:'B4EDAEB8-ED5A-1520-1019-200231000000'
+>
+'act876735445393':<
+          klad:'eqeleyte',
+          tarih:'2022-06-27 01:03:29.429862',
+          hata:'ERROR: Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location',
+          mod:'Ses',
+          ver:'3.1',
+          os:'Windows-7-6.1.7601-SP1',
+          hwid:'B4EDAEB8-ED5A-1520-1019-200231000000'
+>
+'act990660312637':<
+          klad:'Acem',
+          tarih:'2022-11-17 14:44:17.425972',
+          hata:'local variable 'baslik_listesi' referenced before assignment',
+          mod:'Spotify',
+          ver:'3.1',
+          os:'Windows-10-10.0.19044-SP0',
+          hwid:'17CA948E-E01D-CB7D-79EE-309C23A9AA1B'
+>
+'act568645503117':<
+          klad:'Acem',
+          tarih:'2023-02-28 12:26:11.353300',
+          hata:'[0;31mERROR:[0m [youtube] sprukwRl9ZQ: Unable to extract [0;94muploader id[0m; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U',
+          mod:'Ses',
+          ver:'3.1',
+          os:'Windows-10-10.0.19044-SP0',
+          hwid:'F5460826-F846-2147-969A-5DC3E67E7869'
+>
+'act670995800346':<
+          klad:'Acem',
+          tarih:'2023-02-28 12:28:02.647387',
+          hata:'[0;31mERROR:[0m [youtube] sprukwRl9ZQ: Unable to extract [0;94muploader id[0m; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U',
+          mod:'Video Bilgi',
+          ver:'3.1',
+          os:'Windows-10-10.0.19044-SP0',
+          hwid:'F5460826-F846-2147-969A-5DC3E67E7869'
+>
+'act14077346180':<
+          klad:'Acem',
+          tarih:'2023-09-07 22:25:31.612396',
+          hata:'[0;31mERROR:[0m 
+[download] Got error: HTTP Error 403: Forbidden',
+          mod:'Video',
+          ver:'3.1.1',
+          os:'Windows-10-10.0.22621-SP0',
+          hwid:'17CA948E-E01D-CB7D-79EE-309C23A9AA1B'
+>
+'act417609168558':<
+          klad:'Acem',
+          tarih:'2023-09-07 22:25:35.769705',
+          hata:'can't delete Tcl command',
+          mod:'Video Bilgi',
+          ver:'3.1.1',
+          os:'Windows-10-10.0.22621-SP0',
+          hwid:'17CA948E-E01D-CB7D-79EE-309C23A9AA1B'
+>
+'act851153730583':<
+          klad:'Acem',
+          tarih:'2023-11-24 20:46:26.589339',
+          hata:'[0;31mERROR:[0m 
+[download] Got error: HTTP Error 403: Forbidden',
+          mod:'Ses',
+          ver:'3.1.1',
+          os:'Windows-10-10.0.22621-SP0',
+          hwid:'17CA948E-E01D-CB7D-79EE-309C23A9AA1B'
+>
+'act577766606333':<
+          klad:'Acem',
+          tarih:'2023-12-08 17:21:51.235744',
+          hata:'http status: 404, code:-1 - https://api.spotify.com/v1/playlists/0QsQ1am4segejc8znLDwO0?additional_types=track:
+ Not found., reason: None',
+          mod:'Spotify',
+          ver:'3.1.1',
+          os:'Windows-10-10.0.22621-SP0',
+          hwid:'17CA948E-E01D-CB7D-79EE-309C23A9AA1B'
+>
+'act39912961200':<
+          klad:'legi06',
+          tarih:'2023-12-11 00:18:42.762188',
+          hata:'[WinError 3] Sistem belirtilen yolu bulamiyor: 'C:/Users/Legi7/Desktop/aaa/Sesler'',
+          mod:'Ses',
+          ver:'3.1.2',
+          os:'Windows-10-10.0.19045-SP0',
+          hwid:'03D40274-0435-05C3-5D06-3C0700080009'
+>
+'act229789593088':<
+          klad:'Acem',
+          tarih:'2024-03-05 00:20:49.137191',
+          hata:'can't delete Tcl command',
+          mod:'Video Bilgi',
+          ver:'3.1.2',
+          os:'Windows-10-10.0.22621-SP0',
+          hwid:'17CA948E-E01D-CB7D-79EE-309C23A9AA1B'
+>
